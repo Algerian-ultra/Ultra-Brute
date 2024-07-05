@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup                                    import requests
+from bs4 import BeautifulSoup                                 import requests
 import re
 import time
 from colorama import init, Fore, Style
