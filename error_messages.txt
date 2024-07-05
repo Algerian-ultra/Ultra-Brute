@@ -1,0 +1,505 @@
+Login failed
+error
+invaild username
+invaild password
+ERROR
+Error
+incorrect
+Invalid username or password.
+Login failed. Please try again.
+Authentication error.
+Datos de acceso no válidos.
+بيانات الوصول غير صالحة.
+访问数据无效
+訪問數據無效
+Ugyldige adgangsdata.
+Ongeldige toegangsgegevens.
+Invalid login credentials.
+Virheelliset kirjautumistiedot.
+Identifiants de connexion invalides.
+Ungültige Anmeldedaten.
+Μη έγκυρα στοιχεία σύνδεσης.
+פרטي הכניסה אינם תקפים.
+अमान्य लॉगिन सिद्धांत.
+Érvénytelen bejelentkezési adatok.
+Kredensial login tidak valid.
+Credenziali di accesso non valide.
+無効なログイン資格情報。
+유효하지 않은 로그인 자격 증명.
+Nieprawidłowe dane logowania.
+Credenciais de login inválidas.
+Date de autentificare nevalide.
+Неверные данные для входа.
+Datos de acceso no válidos.
+Ogiltiga inloggningsuppgifter.
+ข้อมูลการเข้าใช้ไม่ถูกต้อง.
+Geçersiz giriş bilgileri.
+Access denied.
+Username not recognized.
+Account locked. Contact support.
+Session expired. Please login again.
+Password incorrect.
+User account disabled.
+Network error. Please check your connection.
+Server timeout.
+Internal server error.
+Unexpected response from server.
+Invalid credentials.
+Login credentials expired.
+Security violation detected.
+Account suspended.
+Username field is empty.
+Password field is empty.
+Datos de acceso no válidos.
+Username format is invalid.
+Password format is invalid.
+Missing required fields.
+Login limit exceeded.
+Account not found.
+Invalid session ID.
+Session expired. Please refresh the page.
+Incorrect captcha. Please try again.
+Username is case-sensitive.
+Password is case-sensitive.
+Account not activated.
+Login not allowed from this location.
+Verification code required.
+User authentication failed.
+System maintenance in progress.
+Login service unavailable.
+Password reset required.
+Account pending approval.
+Account deletion in progress.
+Session terminated.
+Temporary network issue.
+Access token expired.
+Account inactive.
+Login attempt blocked.
+Account verification required.
+Login disabled for this account.
+Incorrect account details.
+Password must be at least 8 characters.
+Username not found in database.
+Account locked due to suspicious activity.
+Login restricted for this user.
+Username contains invalid characters.
+Password contains invalid characters.
+Authentication token expired.
+Username already in use.
+Password does not meet security requirements.
+Account creation failed.
+Login session invalidated.
+Access denied due to permissions.
+Invalid login attempt.
+Account requires reactivation.
+Incorrect login method.
+Session cookie not found.
+Login attempt from unknown device.
+Invalid user context.
+API authentication failed.
+Session cookie expired.
+Login attempt rate limit exceeded.
+User agreement acceptance required.
+Unauthorized access attempt.
+Invalid IP address for login.
+Password change required.
+Account security policy violation.
+Login history not found.
+Login attempt from unrecognized device.
+Account locked due to multiple failures.
+Login credentials not provided.
+Account registration incomplete.
+Account not authorized for login.
+Server down for maintenance.
+Login error code 101.
+Login error code 102.
+Login error code 103.
+Login error code 104.
+Login error code 105.
+Login error code 106.
+Login error code 107.
+Login error code 108.
+Login error code 109.
+Login error code 110.
+Login error code 111.
+Login error code 112.
+Login error code 113.
+Login error code 114.
+Login error code 115.
+Login error code 116.
+Login error code 117.
+Login error code 118.
+Login error code 119.
+Login error code 120.
+Login error code 121.
+Login error code 122.
+Login error code 123.
+Login error code 124.
+Login error code 125.
+Login error code 126.
+Login error code 127.
+Login error code 128.
+Login error code 129.
+Login error code 130.
+Login error code 131.
+Login error code 132.
+Login error code 133.
+Login error code 134.
+Login error code 135.
+Login error code 136.
+Login error code 137.
+Login error code 138.
+Login error code 139.
+Login error code 140.
+Login error code 141.
+Login error code 142.
+Login error code 143.
+Login error code 144.
+Login error code 145.
+Login error code 146.
+Login error code 147.
+Login error code 148.
+Login error code 149.
+Login error code 150.
+Invalid login credentials. Please verify and try again.
+Account access denied. Contact your administrator for assistance.
+Login session expired. Please log in again to continue.
+Incorrect username or password combination.
+Account authentication failed. Please check your details.
+Login blocked due to security reasons.
+User account inactive. Please contact support for activation.
+Password reset required. Follow the instructions in your email.
+Login attempt from unauthorized device.
+Invalid login method. Please use the correct method to log in.
+Session cookie not found. Please enable cookies and try again.
+API authentication error. Please verify your API credentials.
+Login attempt from restricted IP address.
+Account locked due to multiple failed login attempts.
+Login credentials not provided. Please enter your username and password.
+Server maintenance in progress. Please try again later.
+Login error code 201: Authentication failed.
+Login error code 202: Account suspended.
+Login error code 203: Password expired.
+Login error code 204: Access denied due to permissions.
+Login error code 205: User agreement not accepted.
+Login error code 206: Account pending activation.
+Login error code 207: Session expired. Please refresh the page.
+Login error code 208: Temporary network issue. Please try again.
+Login error code 209: Server timeout. Please try again later.
+Login error code 210: Internal server error. Contact support.
+Login error code 211: Unexpected response from server.
+Login error code 212: Account disabled.
+Login error code 213: Username not found in database.
+Login error code 214: Password does not meet security requirements.
+Login error code 215: Account creation failed. Please try again.
+Login error code 216: Account deletion in progress.
+Login error code 217: Account not authorized for login.
+Login error code 218: Incorrect captcha entered. Please try again.
+Login error code 219: Invalid verification code.
+Login error code 220: Account locked due to suspicious activity.
+Login error code 221: Account not activated. Verify your email.
+Login error code 222: User authentication token expired.
+Login error code 223: Invalid session ID. Please refresh the page.
+Login error code 224: Login restricted from this location.
+Login error code 225: User agreement acceptance required.
+Login error code 226: Unauthorized access attempt detected.
+Login error code 227: Password change required.
+Login error code 228: Account security policy violation.
+Login error code 229: Login attempt rate limit exceeded.
+Login error code 230: Account verification required.
+Login error code 231: Account registration incomplete.
+Login error code 232: Login service unavailable. Please try later.
+Login error code 233: System maintenance in progress. Try again later.
+Login error code 234: Invalid IP address for login.
+Login error code 235: Account not found. Verify your details.
+Login error code 236: Login not allowed from this device.
+Login error code 237: Incorrect account details provided.
+Login error code 238: Username or password format is invalid.
+Login error code 239: Username or password field is empty.
+Login error code 240: Missing required fields for login.
+Login error code 241: Account pending approval. Please wait.
+Login error code 242: Account login blocked temporarily.
+Login error code 243: Incorrect login attempt count exceeded.
+Login error code 244: Account requires reactivation. Contact support.
+Login error code 245: Invalid login attempt. Verify your details.
+Login error code 246: Account not authorized for this action.
+Login error code 247: Login attempt blocked due to suspicious activity.
+Login error code 248: Account login history not found.
+Login error code 249: Invalid user context for login.
+Login error code 250: API authentication failed. Check your credentials.
+Login failed. Invalid username or password.
+Authentication error. Please verify your credentials.
+Access denied. Your account does not have permission to access.
+Username not recognized. Please check your username.
+Account locked. Contact support for assistance.
+Session expired. Please log in again.
+Password incorrect. Verify your password and try again.
+User account disabled. Contact administrator for help.
+Network error. Unable to connect. Check your network.
+Server timeout. Request timed out. Try again later.
+Internal server error. Server encountered an unexpected condition.
+Unexpected response from server. Please try again.
+Invalid credentials. Verify your login details.
+Login credentials expired. Please renew your credentials.
+Security violation detected. Access blocked due to security issue.
+Account suspended. Contact support to resolve.
+Username field is empty. Please enter your username.
+Password field is empty. Please enter your password.
+Username format is invalid. Check username format requirements.
+Password format is invalid. Check password format requirements.
+Missing required fields. Please fill in all required fields.
+Login limit exceeded. Too many login attempts. Try again later.
+Account not found. Verify your account details.
+Invalid session ID. Session ID is not valid. Refresh the page.
+Session expired. Please refresh the page and log in again.
+Incorrect captcha. Verify captcha and try again.
+Username is case-sensitive. Check your username case.
+Password is case-sensitive. Check your password case.
+Account not activated. Activate your account to login.
+Login not allowed from this location. Access restricted.
+Verification code required. Enter verification code to proceed.
+User authentication failed. Failed to authenticate user.
+System maintenance in progress. Try again later.
+Login service unavailable. Service temporarily unavailable.
+Password reset required. Please reset your password.
+Account pending approval. Account approval pending.
+Account deletion in progress. Account deletion process ongoing.
+Session terminated. Your session has been terminated.
+Temporary network issue. Network issue. Try again later.
+Access token expired. Your access token has expired.
+Account inactive. Account is currently inactive.
+Login attempt blocked. Login attempt blocked for security reasons.
+Account verification required. Verify your account to continue.
+Login disabled for this account. Contact support for assistance.
+Incorrect account details provided. Verify your details.
+Password must be at least 8 characters long.
+Username not found in database. Check your username.
+Account locked due to suspicious activity. Contact support.
+Login restricted for this user. Access restricted.
+Username contains invalid characters. Check username format.
+Password contains invalid characters. Check password format.
+Authentication token expired. Token expired. Renew token.
+Username already in use. Choose a different username.
+Password does not meet security requirements. Choose a stronger password.
+Account creation failed. Failed to create account.
+Login session invalidated. Session invalidated. Log in again.
+Access denied due to permissions. Permission denied. Contact admin.
+Invalid login attempt. Verify your login attempt.
+Account requires reactivation. Reactivate your account.
+Incorrect login method. Use correct login method.
+Session cookie not found. Cookie not found. Enable cookies.
+Login attempt from unknown device. Verify device login.
+Invalid user context. Invalid user context for login.
+API authentication failed. API authentication error. Check credentials.
+Session cookie expired. Cookie expired. Log in again.
+Login attempt rate limit exceeded. Limit exceeded. Try later.
+User agreement acceptance required. Accept user agreement.
+Unauthorized access attempt. Unauthorized access detected.
+Invalid IP address for login. IP address not allowed. Verify IP.
+Password change required. Change password to continue.
+Account security policy violation. Security policy violation detected.
+Login history not found. Login history not available.
+Login attempt from unrecognized device. Verify device.
+Account locked due to multiple failures. Locked due to failed attempts.
+Login credentials not provided. Please provide login credentials.
+Account registration incomplete. Complete registration to login.
+Account not authorized for login. Authorization required.
+Server down for maintenance. Server under maintenance. Try later.
+Login error code 301: Authentication failed.
+Login error code 302: Account suspended.
+Login error code 303: Password expired.
+Login error code 304: Access denied due to permissions.
+Login error code 305: User agreement not accepted.
+Login error code 306: Account pending activation.
+Login error code 307: Session expired. Refresh and try again.
+Login error code 308: Temporary network issue. Try later.
+Login error code 309: Server timeout. Try later.
+Login error code 310: Internal server error. Contact support.
+Login error code 311: Unexpected response from server.
+Login error code 312: Account disabled.
+Login error code 313: Username not found in database.
+Login error code 314: Password does not meet security requirements.
+Login error code 315: Account creation failed. Try again.
+Login error code 316: Account deletion in progress.
+Login error code 317: Account not authorized for this action.
+Login error code 318: Incorrect captcha entered. Try again.
+Login error code 319: Invalid verification code.
+Login error code 320: Account locked due to suspicious activity.
+Login error code 321: Account not activated. Verify your email.
+Login error code 322: User authentication token expired.
+Login error code 323: Invalid session ID. Refresh the page.
+Login error code 324: Login restricted from this location.
+Login error code 325: User agreement acceptance required.
+Login error code 326: Unauthorized access attempt detected.
+Login error code 327: Password change required.
+Login error code 328: Account security policy violation.
+Login error code 329: Login attempt rate limit exceeded.
+Login error code 330: Account verification required.
+Login error code 331: Account registration incomplete.
+Login error code 332: Login service unavailable. Try later.
+Login error code 333: System maintenance in progress. Try later.
+Login error code 334: Invalid IP address for login.
+Login error code 335: Account not found. Verify your details.
+Login error code 336: Login not allowed from this device.
+Login error code 337: Incorrect account details provided.
+Login error code 338: Username or password format is invalid.
+Login error code 339: Username or password field is empty.
+Login error code 340: Missing required fields for login.
+Login error code 341: Account pending approval. Please wait.
+Login error code 342: Account login blocked temporarily.
+Login error code 343: Incorrect login attempt count exceeded.
+Login error code 344: Account requires reactivation. Contact support.
+Login error code 345: Invalid login attempt. Verify your details.
+Login error code 346: Account not authorized for this action.
+Login error code 347: Login attempt blocked due to suspicious activity.
+Login error code 348: Account login history not found.
+Login error code 349: Invalid user context for login.
+Login error code 350: API authentication failed. Check your credentials.
+connexion depuis un appareil inconnu. Veuillez vérifier.
+Code d'erreur de connexion 327: Tentative de connexion depuis un navigateur non pris en charge.
+Code d'erreur de connexion 328: Connexion désactivée pour ce compte.
+Code d'erreur de connexion 329: Détails de compte incorrects fournis.
+Code d'erreur de connexion 330: Adresse IP invalide pour la connexion.
+Code d'erreur de connexion 331: Changement de mot de passe requis pour continuer.
+Code d'erreur de connexion 332: Violation de la politique de sécurité du compte.
+Code d'erreur de connexion 333: Historique de connexion non trouvé.
+Code d'erreur de connexion 334: Tentative de connexion depuis un appareil non reconnu.
+Code d'erreur de connexion 335: Compte verrouillé en raison de plusieurs échecs de connexion.
+Code d'erreur de connexion 336: Informations d'identification de connexion non fournies.
+Code d'erreur de connexion 337: Inscription de compte incomplète.
+Code d'erreur de connexion 338: Compte non autorisé pour la connexion.
+Code d'erreur de connexion 339: Serveur hors service pour maintenance. Réessayez plus tard.
+Code d'erreur de connexion 340: Erreur interne du serveur. Contactez le support.
+Code d'erreur de connexion 341: Tentative de connexion non autorisée détectée.
+Code d'erreur de connexion 342: Adresse IP invalide pour la connexion. Vérifiez votre IP.
+Code d'erreur de connexion 343: Code de vérification incorrect. Veuillez réessayer.
+Code d'erreur de connexion 344: Session de connexion expirée. Actualisez et reconnectez-vous.
+Code d'erreur de connexion 345: Connexion restreinte en raison des permissions.
+Code d'erreur de connexion 346: Échec de la connexion en raison d'une tentative invalide.
+Code d'erreur de connexion 347: Compte nécessitant une réactivation. Réactivez votre compte.
+Code d'erreur de connexion 348: Méthode de connexion incorrecte. Utilisez la méthode de connexion appropriée.
+Code d'erreur de connexion 349: Cookie de session non trouvé. Activez les cookies dans votre navigateur.
+Code d'erreur de connexion 350: Tentative de connexion depuis un appareil inconnu.
+Code d'erreur de connexion 351: Contexte utilisateur invalide pour la connexion.
+Code d'erreur de connexion 352: Échec de l'authentification API. Vérifiez vos informations d'identification API.
+Code d'erreur de connexion 353: Cookie de session expiré. Votre session a expiré.
+Code d'erreur de connexion 354: Limite de taux de tentative de connexion dépassée. Réessayez plus tard.
+Code d'erreur de connexion 355: Acceptation de l'accord utilisateur requise pour la connexion.
+Code d'erreur de connexion 356: Tentative d'accès non autorisée détectée. Veuillez contacter le support.
+Code d'erreur de connexion 357: Adresse IP invalide pour la connexion. Vérifiez votre adresse IP.
+Code d'erreur de connexion 358: Changement de mot de passe requis pour continuer.
+Code d'erreur de connexion 359: Violation de la politique de sécurité du compte. Contactez le support.
+Code d'erreur de connexion 360: Historique de connexion introuvable. Contactez le support.
+Code d'erreur de connexion 361: Tentative de connexion depuis un appareil non reconnu. Vérifiez l'appareil.
+Code d'erreur de connexion 362: Compte verrouillé en raison de tentatives de connexion multiples. Contactez le support.
+Code d'erreur de connexion 363: Informations d'identification de connexion non fournies. Veuillez fournir vos informations d'identification.
+Code d'erreur de connexion 364: Inscription de compte incomplète. Veuillez compléter l'inscription pour vous connecter.
+Code d'erreur de connexion 365: Compte non autorisé pour la connexion. Autorisation requise.
+Code d'erreur de connexion 366: Serveur hors service pour maintenance. Réessayez ultérieurement.
+Code d'erreur de connexion 367: Erreur de connexion interne du serveur. Contactez le support.
+Code d'erreur de connexion 368: Tentative de connexion non autorisée détectée. Vérifiez votre tentative de connexion.
+Code d'erreur de connexion 369: Adresse IP invalide pour la connexion. Vérifiez votre adresse IP.
+Code d'erreur de connexion 370: Changement de mot de passe requis pour continuer.
+Identifiants de connexion invalides. Veuillez vérifier et réessayer.
+Erreur d'authentification. Veuillez vérifier vos identifiants.
+Accès refusé. Votre compte ne dispose pas des permissions nécessaires.
+Nom d'utilisateur non reconnu. Veuillez vérifier votre nom d'utilisateur.
+Compte verrouillé. Contactez le support pour obtenir de l'aide.
+Session expirée. Veuillez vous reconnecter.
+Mot de passe incorrect. Vérifiez votre mot de passe et réessayez.
+Compte utilisateur désactivé. Contactez l'administrateur pour obtenir de l'aide.
+Erreur réseau. Impossible de se connecter. Vérifiez votre réseau.
+Délai serveur dépassé. La requête a expiré. Réessayez plus tard.
+Erreur serveur interne. Le serveur a rencontré une condition inattendue.
+Réponse inattendue du serveur. Veuillez réessayer.
+Informations d'identification invalides. Vérifiez vos détails de connexion.
+Informations d'identification expirées. Veuillez renouveler vos informations d'identification.
+Violation de sécurité détectée. Accès bloqué en raison d'un problème de sécurité.
+Compte suspendu. Contactez le support pour résoudre ce problème.
+Champ de nom d'utilisateur vide. Veuillez saisir votre nom d'utilisateur.
+Champ de mot de passe vide. Veuillez saisir votre mot de passe.
+Format de nom d'utilisateur invalide. Vérifiez les exigences de format du nom d'utilisateur.
+Format de mot de passe invalide. Vérifiez les exigences de format du mot de passe.
+Champs requis manquants. Veuillez remplir tous les champs requis.
+Limite de connexion dépassée. Trop de tentatives de connexion. Réessayez plus tard.
+Compte introuvable. Vérifiez les détails de votre compte.
+ID de session invalide. L'ID de session n'est pas valide. Actualisez la page.
+Session expirée. Actualisez la page et connectez-vous à nouveau.
+Captcha incorrect. Veuillez vérifier le captcha et réessayer.
+Nom d'utilisateur sensible à la casse. Vérifiez la casse de votre nom d'utilisateur.
+Mot de passe sensible à la casse. Vérifiez la casse de votre mot de passe.
+Compte non activé. Activez votre compte pour vous connecter.
+Connexion non autorisée depuis cet emplacement. Accès restreint.
+Code de vérification requis. Entrez le code de vérification pour continuer.
+Échec de l'authentification utilisateur. Échec de l'authentification de l'utilisateur.
+Maintenance système en cours. Réessayez plus tard.
+Service de connexion indisponible. Service temporairement indisponible.
+Réinitialisation de mot de passe requise. Veuillez réinitialiser votre mot de passe.
+Compte en attente d'approbation. L'approbation du compte est en attente.
+Suppression de compte en cours. Processus de suppression du compte en cours.
+Session terminée. Votre session a été terminée.
+Problème réseau temporaire. Problème réseau. Réessayez plus tard.
+Jeton d'accès expiré. Votre jeton d'accès a expiré.
+Compte inactif. Le compte est actuellement inactif.
+Tentative de connexion bloquée. Tentative de connexion bloquée pour des raisons de sécurité.
+Vérification de compte requise. Vérifiez votre compte pour continuer.
+Connexion désactivée pour ce compte. Contactez le support pour obtenir de l'aide.
+Détails de compte incorrects fournis. Vérifiez vos détails.
+Le mot de passe doit comporter au moins 8 caractères.
+Nom d'utilisateur non trouvé dans la base de données. Vérifiez votre nom d'utilisateur.
+Compte verrouillé en raison d'une activité suspecte. Contactez le support.
+Connexion restreinte pour cet utilisateur. Accès restreint.
+Nom d'utilisateur contient des caractères non valides. Vérifiez le format du nom d'utilisateur.
+Mot de passe contient des caractères non valides. Vérifiez le format du mot de passe.
+Jeton d'authentification expiré. Le jeton a expiré. Renouvelez le jeton.
+Nom d'utilisateur déjà utilisé. Choisissez un autre nom d'utilisateur.
+Le mot de passe ne répond pas aux exigences de sécurité. Choisissez un mot de passe plus fort.
+Échec de la création de compte. Échec de la création du compte.
+Session de connexion invalidée. Session invalidée. Connectez-vous à nouveau.
+Accès refusé en raison des permissions. Accès refusé. Contactez l'administrateur.
+Tentative de connexion invalide. Vérifiez votre tentative de connexion.
+Le compte nécessite une réactivation. Réactivez votre compte.
+Méthode de connexion incorrecte. Utilisez la méthode de connexion correcte.
+Cookie de session non trouvé. Cookie non trouvé. Activez les cookies.
+Tentative de connexion depuis un appareil inconnu. Vérifiez la connexion de l'appareil.
+Contexte utilisateur invalide. Contexte utilisateur invalide pour la connexion.
+Échec d'authentification API. Erreur d'authentification API. Vérifiez les informations d'identification.
+Cookie de session expiré. Cookie expiré. Connectez-vous à nouveau.
+Limite de taux de tentative de connexion dépassée. Limite dépassée. Réessayez plus tard.
+Acceptation requise de l'accord utilisateur. Acceptez l'accord utilisateur.
+Tentative d'accès non autorisée détectée. Tentative d'accès non autorisée détectée.
+Adresse IP invalide pour la connexion. Adresse IP non autorisée. Vérifiez l'IP.
+Changement de mot de passe requis. Changez de mot de passe pour continuer.
+Violation de la politique de sécurité du compte. Violation de la politique de sécurité détectée.
+Historique de connexion introuvable. Historique de connexion non disponible.
+Tentative de connexion depuis un appareil non reconnu. Vérifiez l'appareil.
+Compte verrouillé en raison de plusieurs échecs. Verrouillé en raison de tentatives échouées.
+Informations d'identification de connexion non fournies. Veuillez fournir vos informations d'identification de connexion.
+Inscription de compte incomplète. Terminez l'inscription pour vous connecter.
+Compte non autorisé pour la connexion. Autorisation requise.
+Serveur hors service pour maintenance. Serveur en maintenance. Réessayez plus tard.
+Code d'erreur de connexion 301: Échec d'authentification.
+Code d'erreur de connexion 302: Compte suspendu.
+Code d'erreur de connexion 303: Mot de passe expiré.
+Code d'erreur de connexion 304: Accès refusé en raison des permissions.
+Code d'erreur de connexion 305: Accord utilisateur non accepté.
+Code d'erreur de connexion 306: Compte en attente d'activation.
+Code d'erreur de connexion 307: Session expirée. Actualisez et réessayez.
+Code d'erreur de connexion 308: Problème réseau temporaire. Réessayez plus tard.
+Code d'erreur de connexion 309: Délai serveur. Réessayez plus tard.
+Code d'erreur de connexion 310: Erreur serveur interne. Contactez le support.
+Code d'erreur de connexion 311: Réponse inattendue du serveur.
+Code d'erreur de connexion 312: Compte désactivé.
+Code d'erreur de connexion 313: Nom d'utilisateur introuvable dans la base de données.
+Code d'erreur de connexion 314: Le mot de passe ne répond pas aux exigences de sécurité.
+Code d'erreur de connexion 315: Échec de la création de compte. Réessayez.
+Code d'erreur de connexion 316: Suppression de compte en cours.
+Code d'erreur de connexion 317: Compte non autorisé pour cette action.
+Code d'erreur de connexion 318: Captcha incorrect. Réessayez.
+Code d'erreur de connexion 319: Code de vérification invalide.
+Code d'erreur de connexion 320: Compte verrouillé en raison d'une activité suspecte.
+Code d'erreur de connexion 321: Compte non activé. Vérifiez votre e-mail.
+Code d'erreur de connexion 322: Jeton d'authentification utilisateur expiré.
+Code d'erreur de connexion 323: ID de session invalide. Actualisez la page.
+Code d'erreur de connexion 324: Connexion restreinte depuis cet emplacement.
+Code d'erreur de connexion 325: Acceptation requise de l'accord utilisateur.
