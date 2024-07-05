@@ -153,4 +153,4 @@ password_list_path = input("Input password list: ").strip()
 error_messages_file = "error_messages.txt"
 
 # Run password guessing
-run_password_guessing(target_url, username, password_list_path, error_messages_file)
+run_password_guessing(target_url, username, password_list_path, error_messages_file) 
