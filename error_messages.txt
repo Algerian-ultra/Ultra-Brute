@@ -20,6 +20,7 @@ Identifiants de connexion invalides.
 Ungültige Anmeldedaten.
 Μη έγκυρα στοιχεία σύνδεσης.
 פרטي הכניסה אינם תקפים.
+Invalid authentication details
 अमान्य लॉगिन सिद्धांत.
 Érvénytelen bejelentkezési adatok.
 Kredensial login tidak valid.
